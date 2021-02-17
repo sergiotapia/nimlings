@@ -16,7 +16,13 @@ It's my sincere hope that this project gets more people interested in Nim!
 
 ### Usage Guide
 
-TODO!
+You only need to have Nim 1.4.2 and Nimble installed to run all the Nimlings.
+
+Use `nimble run` in the terminal to run all your exercises. Exercises are
+run sequentially and if one fails the others are halted. Give it a try.
+
+Failure is the goal here, by failing and fixing the programs you will learn
+how Nim works and how to leverage `nimble` to run your projects.
 
 ### Community
 
