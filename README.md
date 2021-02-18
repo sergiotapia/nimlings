@@ -14,6 +14,11 @@ It's my sincere hope that this project gets more people interested in Nim!
 - Covers the 80% of Nim you'll see the majority of the time. 
   - If you need to learn the other 20%, we'll provide good sources to dive deep.
 
+### Exercises
+
+- [x] Hello world
+- [x] Assignments
+- [x] If conditionals
 ### Usage Guide
 
 You only need to have Nim 1.4.2 and Nimble installed to run all the Nimlings.
