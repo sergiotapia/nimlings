@@ -19,6 +19,7 @@ It's my sincere hope that this project gets more people interested in Nim!
 - [x] Hello world
 - [x] Assignments
 - [x] If conditionals
+- [x] Strings
 ### Usage Guide
 
 You only need to have Nim 1.4.2 and Nimble installed to run all the Nimlings.
