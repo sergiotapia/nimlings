@@ -38,7 +38,7 @@ Want to talk about Nim or Nimlings? Join the official Nim discord server.
 
 ### Development
 
-You need at least Nim 1.4.2
+You need at least Nim 1.4.4
 
 ### Thank you's:
 
